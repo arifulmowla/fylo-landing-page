@@ -71,11 +71,14 @@ header {
 .hero .hero-flex .hero-left h1 {
   padding: 60px 0 30px 0;
   font-family: "Raleway", sans-serif;
+  line-height: 1.5;
+  letter-spacing: 1px;
 }
 
 .hero .hero-flex .hero-left p {
   padding-bottom: 15px;
   font-family: "Raleway", sans-serif;
+  line-height: 1.5;
 }
 
 .hero .hero-flex .hero-left .mail-form {
@@ -132,10 +135,14 @@ header {
   width: 50%;
 }
 
-.features .feature-flex .feature-left h1 {
+.features .feature-flex .feature-left h2 {
   font-size: 32px;
   padding: 30px 0;
   font-family: "Raleway", sans-serif;
+}
+
+.features .feature-flex .feature-left p {
+  color: #585989;
 }
 
 .features .feature-flex .feature-left .action-a {
